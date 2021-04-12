@@ -1,0 +1,404 @@
+Uri: https://z3lf.tripod.com/index.html
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index.html
+Content Type: text/html
+
+Uri: https://z3lf.tripod.com/gallery.html
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery.html
+Content Type: text/html
+
+Uri: https://z3lf.tripod.com/files.html
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\files.html
+Content Type: text/html
+
+Uri: https://z3lf.tripod.com/about.html
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\about.html
+Content Type: text/html
+
+Uri: https://z3lf.tripod.com/links.html
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\links.html
+Content Type: text/html
+
+Uri: https://scripts.lycos.com/catman/init.js
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\catman\init.js
+Content Type: application/javascript
+
+Uri: https://z3lf.tripod.com/images/menu_01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/menu_02.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_02.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/main.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\main.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/menu_04.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_04.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/menu_05.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_05.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/artwork.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\artwork.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/menu_07.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_07.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/menu_08.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_08.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/documents.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\documents.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/about.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\about.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/menu_11.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_11.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/links.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\links.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/menu_13.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_13.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/menu_14.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\menu_14.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/images/spacer.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\images\spacer.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/end.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\end.gif
+Content Type: image/gif
+
+Uri: https://www.deviantart.com/auroradragon
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\auroradragon.html
+Content Type: text/html
+
+Uri: https://z3lf.tripod.com/gallery/akilah01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\akilah01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/bgpirate.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bgpirate.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/bluegirl01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bluegirl01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/bluegirl02.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bluegirl02.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/bunnehrf01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bunnehrf01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/crazyboy01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\crazyboy01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/crazygir01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\crazygir01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/dollie01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\dollie01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/fightme.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\fightme.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/gasmaskgirl.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\gasmaskgirl.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/insomnia.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\insomnia.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/kathead.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\kathead.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/lolli.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\lolli.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/mizuumi01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\mizuumi01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/narayan01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\narayan01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/paranoidgeek.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\paranoidgeek.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/pinkbear.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\pinkbear.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/pinkbubbles.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\pinkbubbles.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/purplecrazy.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\purplecrazy.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/purplegirl01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\purplegirl01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/sayhi.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\sayhi.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/shadowboxer.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\shadowboxer.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/sitgirlsit.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\sitgirlsit.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/socold.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\socold.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/star01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\star01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/techgirl01.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\techgirl01.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/griffendorgirl.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\griffendorgirl.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/stfulynx.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\stfulynx.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/ninbpim.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\ninbpim.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/hopelessgirl.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\hopelessgirl.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/bhzrdgirl.jpg
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bhzrdgirl.jpg
+Content Type: image/jpeg
+
+Uri: https://z3lf.tripod.com/gallery/akilah01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\akilah01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/bgpirate.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bgpirate.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/bluegirl01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bluegirl01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/bluegirl02.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bluegirl02.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/bunnehrf01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bunnehrf01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/crazyboy01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\crazyboy01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/crazygir01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\crazygir01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/dollie01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\dollie01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/fightme.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\fightme.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/gasmaskgirl.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\gasmaskgirl.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/insomnia.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\insomnia.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/kathead.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\kathead.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/lolli.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\lolli.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/mizuumi01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\mizuumi01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/narayan01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\narayan01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/paranoidgeek.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\paranoidgeek.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/pinkbear.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\pinkbear.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/pinkbubbles.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\pinkbubbles.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/purplecrazy.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\purplecrazy.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/purplegirl01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\purplegirl01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/sayhi.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\sayhi.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/shadowboxer.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\shadowboxer.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/sitgirlsit.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\sitgirlsit.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/socold.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\socold.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/star01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\star01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/techgirl01.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\techgirl01.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/griffendorgirl.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\griffendorgirl.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/stfulynx.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\stfulynx.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/ninbpim.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\ninbpim.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/hopelessgirl.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\hopelessgirl.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/gallery/bhzrdgirl.gif
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\gallery\bhzrdgirl.gif
+Content Type: image/gif
+
+Uri: https://z3lf.tripod.com/riaa.html
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\riaa.html
+Content Type: text/html
+
+Uri: https://z3lf.tripod.com/webhosts.html
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\webhosts.html
+Content Type: text/html
+
+Uri: https://z3lf.tripod.com/netsend.html
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\netsend.html
+Content Type: text/html
+
+Uri: http://moods.imood.com/display/email=xxwebdemonxx@aol.com/fg=000000/bg=656565
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\display\email=xxwebdemonxx@aol.com\fg=000000\bg=656565.gif
+Content Type: image/gif
+
+Uri: http://kawaiiyume.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-1.htm
+Content Type: text/html
+
+Uri: http://machall.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-3.htm
+Content Type: text/html
+
+Uri: http://dynamicdrive.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-8.htm
+Content Type: text/html
+
+Uri: http://veredgf.fredfarm.com/vbrush
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\vbrush.html
+Content Type: text/html
+
+Uri: https://www.deviantart.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index.htm
+Content Type: text/html
+
+Uri: https://cad-comic.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-2.htm
+Content Type: text/html
+
+Uri: https://megatokyo.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.little-gamers.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-5.htm
+Content Type: text/html
+
+Uri: https://homestarrunner.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.gamestop.com/toys-collectibles/thinkgeek
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\toys-collectibles\thinkgeek.html
+Content Type: text/html
+
+Uri: https://www.flashflashrevolution.com/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-7.htm
+Content Type: text/html
+
+Uri: https://www.eff.org/
+File Name: C:\Users\hazar\Documents\code\z3lf.tripod.com\index-9.htm
+Content Type: text/html
+
